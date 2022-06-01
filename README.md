@@ -28,11 +28,12 @@
 <br />
 
 ## Este es mi trabajo favorito
+Está hecho con JavaScript, React, ReactHooks, Redux, Node.js, Express, Bootstrap, creé mi propia API para los productos y registrar los usuarios, también utilicé la API de PayPal para la pasarela de pagos.
 [http://bakery-bsas.herokuapp.com/](http://bakery-bsas.herokuapp.com/)
 ![image](https://user-images.githubusercontent.com/83790263/170611210-69ddca11-dfc8-428c-8310-71ec7fa3d9a2.png)
 
 
-## Este es mi portfolio:
+## Este es mi portafolio:
 https://danacardozo.github.io/Portafolio/
   <img src="https://user-images.githubusercontent.com/83790263/164985582-85142359-1e82-4b6c-b33c-a9040930996f.png"/>
   
