@@ -2,8 +2,6 @@
 <p>Hola, me llamo Dana y soy estudiante de la tecnicatura de Desarrollo Web y Aplicaciones Digitales en ISPC y soy desarrolladora de React y Node. </p>
 <p>Llevo un año programando como hobby y actualmente me encuentro en busqueda activa para conseguir mi primer trabajo en IT.</p>
 
-##
-
 ## Herramientas que uso:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -23,7 +21,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br />
 
+## Contactame con un click!
+<a href="https://www.linkedin.com/in/dana-cardozo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:dana.n.cardozo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br />
 
