@@ -1,6 +1,5 @@
  ## Dana Cardozo
-<p>Hola, me llamo Dana y soy estudiante de la tecnicatura de Desarrollo Web y Aplicaciones Digitales en ISPC y soy desarrolladora de React y Node. </p>
-<p>Llevo un año programando como hobby y actualmente me encuentro en busqueda activa para conseguir mi primer trabajo en IT.</p>
+<p>Hola, me llamo Dana, trabajo como desarrolladora web y soy estudiante de la tecnicatura de Desarrollo Web y Aplicaciones Digitales en ISPC. </p>
 
 ## Herramientas que uso:
 
